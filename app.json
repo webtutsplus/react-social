@@ -1,0 +1,12 @@
+{
+  "name": "react-social",
+  "displayName": "react-social",
+  "expo": {
+    "name": "react-social",
+    "slug": "react-social",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
